@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/5sem/BSIT/4/main.cpp
+comdef.h
+-
+Wbemidl.h
+-
+wincred.h
+-
+strsafe.h
+-
+
